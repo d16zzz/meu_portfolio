@@ -1,2 +1,2 @@
 # meu_portfolio
-projetos que estou a fazer na escola
+no momento estou estudando desenvolvimento de sistemas, e cibersegurança.
